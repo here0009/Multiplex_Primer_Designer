@@ -1,0 +1,8 @@
+Name                               	Sequence                                	   Len    	DegNumber 	MaxTm	MinTm	   Flag   
+Rotavirus_A#R#0o                   	TTWACRCCWGARTCATCCAT                    	    20    	    16    	57.22	52.37	    1     
+Rotavirus_A#F#0ao                  	ACCATCTWCACRTRACCCTCTATGAG              	    26    	    8     	64.36	60.11	    1     
+Rotavirus_A#R#0ao                  	GGTYACATAACGCCCCTATAGC                  	    22    	    2     	61.20	58.99	    1     
+Rotavirus_A#F#3o                   	WCACRTRACCCTCTATGAGCRCA                 	    23    	    16    	66.55	59.57	    1     
+Rotavirus_A#F#14o                  	GTTGMTGCTCAAGATGGA                      	    18    	    2     	55.49	52.43	    1     
+Rotavirus_A#F#12o                  	GGCTTTTAATGCTTTTCAGT                    	    20    	    1     	53.17	53.17	    1     
+Rotavirus_A#R#2o                   	ACGCCCCTATAGCCATTTAGGTT                 	    23    	    1     	62.14	62.14	    1     

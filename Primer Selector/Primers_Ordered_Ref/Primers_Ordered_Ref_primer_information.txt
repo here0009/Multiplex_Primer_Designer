@@ -1,0 +1,9 @@
+Name                               	Sequence                                	   Len    	DegNumber 	MaxTm	MinTm	   Flag   
+Norovirus_GII#F#0                  	TGGAYTTTTAYGTRCCMAG                     	    19    	    16    	58.26	48.14	    1     
+adenovirus_f_R_4                   	TAGTTRGCGGGGTAAGCTTGT                   	    21    	    2     	62.32	59.41	    1     
+Rotavirus_A#R#30                   	ACTRTYGYGCTCATAGAGGG                    	    20    	    8     	62.31	54.51	    1     
+Adenovirus_Hexon#F#5               	GYCTKCGCTAYCGDTCYATGCT                  	    22    	    48    	70.17	58.23	    0     
+sapovirus_g1_F_16                  	TAGTGTTTGAGATGGAGGGCAAT                 	    23    	    1     	60.34	60.34	    1     
+sapovirus_g1_R_16                  	AGTGATRCGAGCATCAACGAAAG                 	    23    	    2     	62.59	59.72	    1     
+Norovirus_GII#R#2                  	CCWCCWGCATAMCCATTRTACAT                 	    23    	    16    	61.29	56.51	    1     
+rotavirus_a_F_12                   	GGCTTTTAATGCTTTTCAGT                    	    20    	    1     	53.17	53.17	    1     

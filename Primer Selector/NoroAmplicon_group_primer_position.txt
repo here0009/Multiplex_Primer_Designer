@@ -1,0 +1,8 @@
+Primer_Name                        	Ref_Name                           	Primer_Seq                         	Ref_Seq                            	Score	Strand	Pos_Start 	 Pos_End  	Identical 
+Norovirus_GII#F#0                  	Norovirus_GII_updates004           	TGGAYTTTTAYGTRCCMAG                	TGGAYTTTTAYGTRCCMAG                	 1.0 	forward	    1     	    20    	    1     
+Norovirus_GII#F#3                  	Norovirus_GII_updates004           	GCTCCCRRTKKTGTGAATGAAG             	GCTCCCARTTTTGTGAATGAAG             	 1.0 	forward	    87    	   109    	    0     
+Norovirus_GI#F#3                   	Norovirus_GI_consensus_seq         	GARAARTTYTACAGRAAGAT               	GARAARTTYTACAGRAAGAT               	 1.0 	forward	    0     	    20    	    1     
+Norovirus_GII#R#2                  	Norovirus_GII_updates004           	ATGTAYAATGGKTATGCWGGWGG            	ATGTAYAATGGKTATGCWGGTGG            	 1.0 	reverse	   385    	   408    	    0     
+Norovirus_GI#F#1dref               	Norovirus_GI_consensus_seq         	CGYTGGATGCGVTTCCATGA               	CGYTGGATGCGVTTCCATGA               	 1.0 	forward	    93    	   113    	    1     
+Norovirus_GI#R#2                   	Norovirus_GI_consensus_seq         	ATGTAYAATGGYTGGGTYGGBA             	ATGTAYAATGGYTGGGTYGGBA             	 1.0 	reverse	   454    	   476    	    1     
+Norovirus_GII#F#cref               	Norovirus_GII_updates004           	ATGTTYAGRTGGATGAGRTTYTC            	ATGTTYAGRTGGATGAGRTTYTC            	 1.0 	forward	    30    	    53    	    1     

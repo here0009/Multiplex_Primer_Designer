@@ -1,0 +1,84 @@
+Primer_Name                        	Ref_Name                           	Primer_Seq                         	Ref_Seq                            	Score	Strand	Pos_Start 	 Pos_End  	Identical 
+Adenovirus_f-g#F#8                 	Adenovirus_F-G                     	CTACTCYGGCTCCRTYCCMTAC             	CTACTCYGGCTCCRTYCCMTAC             	 1.0 	forward	   475    	   497    	    1     
+Astrovirus_1-8#R#0                 	Astrovirus_1-8_consensus_seq       	CTCACWGAAGAGCAACTYCAT              	CTCACWGAAGAGCAACTYCAT              	 1.0 	reverse	   102    	   123    	    1     
+Adenovirus_f-g#R#3                 	Adenovirus_F-G                     	TCCTTYTTYMGAAACTTCCARCC            	TCCTTYTTYMGAAACTTCCARCC            	 1.0 	reverse	   752    	   775    	    1     
+Sapovirus_GI#F#0                   	SapoVirus_GI_consensus_seq         	GWYGTTGACCYKCCTGGC                 	GWYGTTGACCYKCCTGGC                 	 1.0 	forward	    61    	    79    	    1     
+Sapovirus_GI#F#3                   	SapoVirus_GI_consensus_seq         	GTGGGGHGGYAGYTTTGAG                	GTGGGGHGGYAGYTTTGAG                	 1.0 	forward	   333    	   352    	    1     
+Norovirus_GI#R#1                   	Norovirus_GI_consensus_seq         	CCGAWTWYGTAAATGATGAT               	CCGAWTWYGTAAATGATGAT               	 1.0 	reverse	   148    	   168    	    1     
+Astrovirus_1-8#F#2                 	Astrovirus_1-8_consensus_seq       	CTYGCTGCRTTYATGGCRGA               	CTYGCTGCRTTYATGGCRGA               	 1.0 	forward	    0     	    20    	    1     
+Norovirus_GI#F#2	0
+Adenovirus_f-g#F#4                 	Adenovirus_F-G                     	GACTCCTCTGTGAGYTGGCCT              	GACTCSTCKGTSAGYTGGCCY              	0.9047619047619048	forward	   551    	   572    	    0     
+Astrovirus_1-8#F#5                 	Astrovirus_1-8_consensus_seq       	YAGRCTCACWGAAGAGCAACTYC            	YAGRCTCACWGAAGAGCAACTYC            	 1.0 	forward	    98    	   121    	    1     
+Astrovirus_1-8#F#44                	Astrovirus_1-8_consensus_seq       	AAGRAGTGYGATGGCTAGYAAG             	AAGRAGTGYGATGGCTAGYAAG             	 1.0 	forward	   144    	   166    	    1     
+Sapovirus_GI#R#0                   	SapoVirus_GI_consensus_seq         	TCTDTATCGCTTCATCCCAACAT            	TCTDTATCGCTTCATCCCAACAT            	 1.0 	reverse	   271    	   294    	    1     
+Astrovirus_1-8#F#4	0
+Astrovirus_1-8#R#1                 	Astrovirus_1-8_consensus_seq       	ARCAACTCAGGARACARGGTGTC            	ARCAACTCAGGARACARGGTGTC            	 1.0 	reverse	   353    	   376    	    1     
+Adenovirus_f-g#F#0	0
+Rotavirus_A#R#25                   	Rotavirus_A_consensus_seq          	AACCTAAATGGCTATAGGGGCGT            	AACCTAAATGGCTATAGGGGCGT            	 1.0 	reverse	   1033   	   1056   	    1     
+Rotavirus_A#F#0                    	Rotavirus_A_consensus_seq          	GGCWTTTAATGCTTTTCAGT               	GGCWTTTAATGCTTTTCAGT               	 1.0 	forward	    0     	    20    	    1     
+Norovirus_GII#R#0                  	Norovirus_GII_consensus_seq        	RTKKTGTGAATGAAGATGGCGT             	RTKKTGTGAATGAAGATGGCGT             	 1.0 	reverse	    93    	   115    	    1     
+Norovirus_GI#R#4                   	Norovirus_GI_consensus_seq         	RATGTAYAATGGYTGGGTY                	RATGTAYAATGGYTGGGTY                	 1.0 	reverse	   453    	   472    	    1     
+Astrovirus_1-8#R#2                 	Astrovirus_1-8_consensus_seq       	AGRAGTGYGATGGCTAGYAAGYC            	AGRAGTGYGATGGCTAGYAAGYC            	 1.0 	reverse	   145    	   168    	    1     
+Sapovirus_GI#F#4                   	SapoVirus_GI_consensus_seq         	GGYCCGRCCACATCCMAY                 	GGYCCGRCCACATCCMAY                 	 1.0 	forward	    85    	   103    	    1     
+Adenovirus_f-g#R#5                 	Adenovirus_F-G                     	GGAYGGYACCTTYTACCTSAACC            	GGAYGGYACCTTYTACCTSAACC            	 1.0 	reverse	   499    	   522    	    1     
+Rotavirus_A#F#2                    	Rotavirus_A_consensus_seq          	TCAGTGGTTGHTGCTCAAGATGG            	TCAGTGGTTGMTGCTCAAGATGG            	 1.0 	forward	    15    	    38    	    0     
+Adenovirus_f-g#R#0                 	Adenovirus_F-G                     	ATYCARGTSCCCCAGAARTTTTT            	ATYCARGTSCCCCAGAARTTTTT            	 1.0 	reverse	    53    	    76    	    1     
+Astrovirus_1-8#R#22                	Astrovirus_1-8_consensus_seq       	TCARCGTGTCCGTAAMATTGTCA            	TCARCGTGTCCGTAAMATTGTCA            	 1.0 	reverse	   327    	   350    	    1     
+Norovirus_GII#F#2	0
+Astrovirus_1-8#R#3                 	Astrovirus_1-8_consensus_seq       	CARTCTWMTCARCGTGTCCGTAA            	CARTCTWMTCARCGTGTCCGTAA            	 1.0 	reverse	   319    	   342    	    1     
+Adenovirus_f-g#R#41                	Adenovirus_F-G                     	ACAAGCTTACCCCGCYAACTA              	RCAAGCKTACCCCGCYAACTA              	0.9523809523809523	reverse	   892    	   913    	    0     
+Sapovirus_GI#F#1                   	SapoVirus_GI_consensus_seq         	GTTGTKKCTAATCCRGARCAACC            	GTTGTKKCTAATCCRGARCAACC            	 1.0 	forward	   106    	   129    	    1     
+Rotavirus_A#F#15                   	Rotavirus_A_consensus_seq          	YTAATGGGYRTTCAATATGATTA            	YTNATGGGYRTTCARTATGAYTA            	0.9239130434782609	forward	   118    	   141    	    0     
+Rotavirus_A#F#14                   	Rotavirus_A_consensus_seq          	GTTGMTGCTCAAGATGGA                 	GTTGMTGCTCAAGATGGA                 	 1.0 	forward	    21    	    39    	    1     
+Adenovirus_f-g#F#1	0
+Adenovirus_f-g#R#4                 	Adenovirus_F-G                     	ATGAGYCGYCARGTRGTA                 	ATGAGYCGYCARGTRGTA                 	 1.0 	reverse	   776    	   794    	    1     
+Astrovirus_1-8#F#7                 	Astrovirus_1-8_consensus_seq       	AARCARGTHACTGTYGAGGTCA             	AARCARGTHACTGTYGAGGTCA             	 1.0 	forward	   172    	   194    	    1     
+Rotavirus_A#R#0                    	Rotavirus_A_consensus_seq          	ATGGATGAYTCWGGYGTWAA               	ATGGATGAYTCWGGYGTWAA               	 1.0 	reverse	   184    	   204    	    1     
+Norovirus_GII#F#1                  	Norovirus_GII_consensus_seq        	CHATGTTYMGRTGGATGA                 	CHATGTTYMGRTGGATGA                 	 1.0 	forward	    27    	    45    	    1     
+Adenovirus_f-g#R#7                 	Adenovirus_F-G                     	GAYGGKGAAGGRTACAACGTG              	GAYGGKGAAGGRTACAACGTG              	 1.0 	reverse	   623    	   644    	    1     
+Sapovirus_GI#F#17                  	SapoVirus_GI_consensus_seq         	CGRCCACATCCMAYGTTGTT               	CGRCCACATCCMAYGTTGTT               	 1.0 	forward	    89    	   109    	    1     
+Rotavirus_A#F#1                    	Rotavirus_A_consensus_seq          	MTGCTCAAGATGGAGTCTACWCA            	MTGCTCAAGATGGAGTCTACWCA            	 1.0 	forward	    25    	    48    	    1     
+Sapovirus_GI#R#16                  	SapoVirus_GI_consensus_seq         	CTTTCGTTGATGCTCGYATCACT            	CTTTCGTTGATGCTCGYATCACT            	 1.0 	reverse	   464    	   487    	    1     
+Sapovirus_GI#R#17                  	SapoVirus_GI_consensus_seq         	ATCATTGCTTCTGTCRTACCACC            	ATCATTGCTTCTGTCRTACCACC            	 1.0 	reverse	   394    	   417    	    1     
+Sapovirus_GI#F#2                   	SapoVirus_GI_consensus_seq         	AATCMAATGTCCCTGARGCRATA            	AATCMAATGTCCCTGARGCRATA            	 1.0 	forward	   179    	   202    	    1     
+Rotavirus_A#F#12                   	Rotavirus_A_consensus_seq          	GGCTTTTAATGCTTTTCAGT               	GGCWTTTAATGCTTTTCAGT               	0.975	forward	    0     	    20    	    0     
+Adenovirus_f-g#F#5                 	Adenovirus_F-G                     	CTKCGCTAYCGDTCYATGCT               	CTKCGCTAYCGDTCYATGCT               	 1.0 	forward	    2     	    22    	    1     
+Rotavirus_A#R#1                    	Rotavirus_A_consensus_seq          	AYAGAAAYTGGATGRCHGA                	AYAGAAAYTGGATGRCHGA                	 1.0 	reverse	   275    	   294    	    1     
+Adenovirus_f-g#F#41                	Adenovirus_F-G                     	CTWACYCCMAAYGAGTTTGAAAT            	CTWACYCCMAAYGAGTTTGAAAT            	 1.0 	forward	   587    	   610    	    1     
+Adenovirus_f-g#R#1                 	Adenovirus_F-G                     	CTVAAAACYAARGARACCCCCTC            	CTVAAAACYAARGARACCCCCTC            	 1.0 	reverse	   422    	   445    	    1     
+Sapovirus_GI#R#5	0
+Norovirus_GI#R#2                   	Norovirus_GI_consensus_seq         	ATGTAYAATGGYTGGGTYGGBA             	ATGTAYAATGGYTGGGTYGGBA             	 1.0 	reverse	   454    	   476    	    1     
+Norovirus_GI#F#5                   	Norovirus_GI_consensus_seq         	TGGCARSCCATGTTYCGYTG               	TGGCARGCCATGTTCCGYTG               	 1.0 	forward	    78    	    98    	    0     
+Rotavirus_A#R#10                   	Rotavirus_A_consensus_seq          	GCTATAGGGGCGTTATGTRACC             	GCTATAGGGGCGTTATGTRACC             	 1.0 	reverse	   1043   	   1065   	    1     
+Norovirus_GII#F#3                  	Norovirus_GII_consensus_seq        	GCTCCCRRTKKTGTGAATGAAG             	GCTCCCRRTKKTGTGAATGAAG             	 1.0 	forward	    86    	   108    	    1     
+Sapovirus_GI#R#1                   	SapoVirus_GI_consensus_seq         	ATCATTGCTTCTGTCRTACCACC            	ATCATTGCTTCTGTCRTACCACC            	 1.0 	reverse	   394    	   417    	    1     
+Adenovirus_f-g#R#2                 	Adenovirus_F-G                     	GGAYGGYACCTTYTACCTSAACC            	GGAYGGYACCTTYTACCTSAACC            	 1.0 	reverse	   499    	   522    	    1     
+Norovirus_GI#F#3                   	Norovirus_GI_consensus_seq         	GARAARTTYTACAGRAAGAT               	GARAARTTYTACAGRAAGAT               	 1.0 	forward	    0     	    20    	    1     
+Norovirus_GI#R#13                  	Norovirus_GI_consensus_seq         	GTAAATGATGATGGCGTCTAAGGAC          	GTAAATGATGATGGCGTCTAAGGAC          	 1.0 	reverse	   156    	   181    	    1     
+Rotavirus_A#R#2                    	Rotavirus_A_consensus_seq          	CATCTWCACRTRACCCTCTATGA            	CATCTWCACRTRACCCTCTATGA            	 1.0 	reverse	   980    	   1003   	    1     
+Norovirus_GI#F#1                   	Norovirus_GI_consensus_seq         	WGGDTGGCARGCCATGTT                 	WGGDTGGCARGCCATGTT                 	 1.0 	forward	    74    	    92    	    1     
+Rotavirus_A#F#3                    	Rotavirus_A_consensus_seq          	WCACRTRACCCTCTATGAGCRCA            	WCACRTRACCCTCTATGAGCRCA            	 1.0 	forward	   985    	   1008   	    1     
+Norovirus_GII#F#0                  	Norovirus_GII_consensus_seq        	TGGAYTTTTAYGTRCCMAG                	TGGAYTTTTAYGTRCCMAG                	 1.0 	forward	    0     	    19    	    1     
+Adenovirus_f-g#F#7                 	Adenovirus_F-G                     	CYTTYMGGGGSTGGAGTTTTAC             	CYTTYMGGGGSTGGAGTTTTAC             	 1.0 	forward	   396    	   418    	    1     
+Norovirus_GII#R#2                  	Norovirus_GII_consensus_seq        	ATGTAYAATGGKTATGCWGGWGG            	ATGTAYAATGGKTATGCWGGWGG            	 1.0 	reverse	   384    	   407    	    1     
+Adenovirus_f-g#F#6                 	Adenovirus_F-G                     	CMAACATGCTKTAYCCCATHCC             	CMAACATGCTKTAYCCCATHCC             	 1.0 	forward	   324    	   346    	    1     
+Rotavirus_A#F#13                   	Rotavirus_A_consensus_seq          	AGRAATAGAAATTGGATGRCYGA            	AGRAAYAGAAAYTGGATGRCHGA            	0.9420289855072465	forward	   271    	   294    	    0     
+Sapovirus_GI#F#16                  	SapoVirus_GI_consensus_seq         	TAGTGTTTGAGATGGAGGGCAAT            	TAGTGTTTGAGATGGAGGGCAAT            	 1.0 	forward	    0     	    23    	    1     
+Sapovirus_GI#R#4                   	SapoVirus_GI_consensus_seq         	AGTCTKTCGYACTTTTGCTTGGA            	AGTCTKTCGYACTTTTGCTTGGA            	 1.0 	reverse	   216    	   239    	    1     
+Rotavirus_A#R#13                   	Rotavirus_A_consensus_seq          	CTWCACRTRACCCTCTATGAGCA            	CTWCACRTRACCCTCTATGAGCR            	0.9782608695652174	reverse	   983    	   1006   	    0     
+Astrovirus_1-8#F#3	0
+Norovirus_GI#R#0	0
+Astrovirus_1-8#F#6                 	Astrovirus_1-8_consensus_seq       	GACTGYDAAGCAGCTTCGTGAN             	GACTGYDAAGCAGCTTCGTGAN             	 1.0 	forward	    62    	    84    	    1     
+Astrovirus_1-8#R#4                 	Astrovirus_1-8_consensus_seq       	ACTCAGGARACARGGTGTCACAG            	ACTCAGGARACARGGTGTCACAG            	 1.0 	reverse	   357    	   380    	    1     
+Adenovirus_f-g#R#6                 	Adenovirus_F-G                     	AGGTGTCCRTYATGTTYGACTCS            	AGGTGTCCRTYATGTTYGACTCS            	 1.0 	reverse	   534    	   557    	    1     
+Rotavirus_A#R#30                   	Rotavirus_A_consensus_seq          	CCCTCTATGAGCRCRAYAGT               	CCCTCTATGAGCRCAAYAGT               	 1.0 	reverse	   993    	   1013   	    0     
+Sapovirus_GI#F#5                   	SapoVirus_GI_consensus_seq         	GCCCRCKGGAACTTWYCT                 	GCCCRCKGGAACTTWYCT                 	 1.0 	forward	   249    	   267    	    1     
+Astrovirus_1-8#F#0	0
+Norovirus_GII#R#1                  	Norovirus_GII_consensus_seq        	TDATWGAYCCCTGGATTAGR               	TDATWGAYCCCTGGATTAGR               	 1.0 	reverse	   241    	   261    	    1     
+Sapovirus_GI#R#2                   	SapoVirus_GI_consensus_seq         	CTTTCGTTGATGCTCGYATCACT            	CTTTCGTTGATGCTCGYATCACT            	 1.0 	reverse	   464    	   487    	    1     
+Astrovirus_1-8#F#1	0
+Astrovirus_1-8#R#5	0
+Norovirus_GI#R#3                   	Norovirus_GI_consensus_seq         	AAATGATGATGGCGTCTAAGGAC            	AAATGATGATGGCGTCTAAGGAC            	 1.0 	reverse	   158    	   181    	    1     
+Adenovirus_f-g#R#8                 	Adenovirus_F-G                     	TACAAYATYGGMTAYCAGGGTTT            	TACAAYATYGGMTAYCAGGGTTT            	 1.0 	reverse	   695    	   718    	    1     
+Adenovirus_f-g#F#2                 	Adenovirus_F-G                     	GCATYAAYCTGTAYGCYAACTTTTT          	GCATYAAYCTGTAYGCYAACTTTTT          	 1.0 	forward	   210    	   235    	    1     
+Rotavirus_A#R#14                   	Rotavirus_A_consensus_seq          	TGAGAGTWCTTAATGCHTGYTT             	TGAGAGTDYTKAAYGCNTGYTT             	0.9053030303030304	reverse	   374    	   396    	    0     

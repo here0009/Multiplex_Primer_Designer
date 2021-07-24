@@ -1,0 +1,16 @@
+Name                               	Sequence                                	   Len    	DegNumber 	MaxTm	MinTm	   Flag   
+Norovirus_GII#R#1f                 	YCTAATCCAGGGRTCWATHA                    	    20    	    24    	56.87	49.52	    1     
+Sapovirus_GI#R#4f                  	TCCAAGCAAAAGTRCGAMAGACT                 	    23    	    4     	63.70	59.14	    1     
+Norovirus_GI#R#1f                  	CCATCATCATTTACRWAWTCGG                  	    22    	    8     	56.25	53.47	    1     
+Sapovirus_GI#R#2f                  	GTGTAYGGRTTAATGTTGGGATG                 	    23    	    4     	60.21	56.01	    1     
+Sapovirus_GI#R#0f                  	AATGTTGGGATGAAGCGATAHAGA                	    24    	    3     	60.99	58.49	    1     
+Adenovirus_f-g#R#7f                	CACGTTGTAYCCTTCMCCRTC                   	    21    	    8     	63.53	57.28	    1     
+Astrovirus_1-8#R#1f                	CTTRCTAGCCATCRCACTYCTTTG                	    24    	    8     	64.84	58.17	    1     
+Norovirus_GI#F#1f                  	WGGDTGGCARGCCATGTTC                     	    19    	    12    	63.48	58.69	    1     
+Adenovirus_f-g#F#7f                	GCYTTYMGGGGSTGGAGTTTTAC                 	    23    	    16    	66.31	60.09	    1     
+Norovirus_GII#F#1f                 	CHATGTTYMGRTGGATGAG                     	    19    	    24    	58.49	47.59	    1     
+Adenovirus_f-g#R#2f                	GRAACCAGTCYTTGGTCATGTTRC                	    24    	    8     	64.73	58.83	    1     
+Adenovirus_f-g#F#4f                	CTWACYCCMAAYGAGTTTGAAATC                	    24    	    16    	60.67	55.06	    1     
+Astrovirus_1-8#F#4f                	CGCATTTGGAGGGGAGGAC                     	    19    	    1     	61.03	61.03	    1     
+Norovirus_GII#F#3f                 	GCTCCCRRTKKTGTGAATGAAGA                 	    23    	    16    	65.46	58.45	    1     
+Norovirus_GII#R#4f                 	ATCTTCATTCACAMMAYYGGGA                  	    22    	    16    	62.29	54.81	    1     

@@ -1,0 +1,440 @@
+
+
+Primers that have simple repeats are :
+
+
+The confliction of primers are : 
+
+ATGTTGGGATGAAGCGATACAGA and TCAGCCATCCAGTTTCTGT violate rule No.1 the score is 5
+ATGTTGGGATGAAGCGATACAGA              
+                  |||||              
+                  TGTCTTTGACCTACCGACT
+The panelty_score is  1
+SapoVirus_GI#R#0 and Rotavirus_A#R#1 may have interaction.
+
+GGGAGCTCCTGTGCTACCAGTTG and ACCAAGACCATGCCAACT violate rule No.1 the score is 5
+GGGAGCTCCTGTGCTACCAGTTG             
+                  |||||             
+                  TCAACCGTACCAGAACCA
+The panelty_score is  1
+SapoVirus_GI#R#5 and Astrovirus_1-8#F#3 may have interaction.
+
+GAGGGGGTTTCCTTGGTTTTGAG and ACCAAAACCATGCCAACC violate rule No.6 the score is 9
+GAGGGGGTTTCCTTGGTTTTGAG
+     ||||  | ||||||||  
+     CCAACCGTACCAAAACCA
+The panelty_score is  1
+SapoVirus_GI#R#5 and Adenovirus_f-g#R#1 may have interaction.
+
+GCTCCCGGTGGTGTGAATGAAG and ACGCCATCTTCATTCACACCAC violate rule No.3 the score is 15
+GCTCCCGGTGGTGTGAATGAAG       
+       |||||||||||||||       
+       CACCACACTTACTTCTACCGCA
+GCTCCCGGTGGTGTGAATGAAG and ACGCCATCTTCATTCACACCAC violate rule No.4 the score is 15
+GCTCCCGGTGGTGTGAATGAAG       
+       |||||||||||||||       
+       CACCACACTTACTTCTACCGCA
+GCTCCCGGTGGTGTGAATGAAG and ACGCCATCTTCATTCACACCAC violate rule No.5 the score is 1.00
+GCTCCCGGTGGTGTGAATGAAG       
+       |||||||||||||||       
+       CACCACACTTACTTCTACCGCA
+GCTCCCGGTGGTGTGAATGAAG and ACGCCATCTTCATTCACACCAC violate rule No.6 the score is 15
+GCTCCCGGTGGTGTGAATGAAG       
+       |||||||||||||||       
+       CACCACACTTACTTCTACCGCA
+GCTCCCGGTGGTGTGAATGAAG and ACGCCATCTTCATTCACACCAC violate rule No.7 the score is -14.20
+GCTCCCGGTGGTGTGAATGAAG       
+       |||||||||||||||       
+       CACCACACTTACTTCTACCGCA
+The panelty_score is  5
+Norovirus_GII#F#3 and Norovirus_GII#R#0 may have interaction.
+
+GCTCCCGGTGTTGTGAATGAAG and ATCATCATTTACAAAATCGG violate rule No.5 the score is 0.78
+GCTCCCGGTGTTGTGAATGAAG  
+    ||| | |||| ||||| |  
+    GGCTAAAACATTTACTACTA
+The panelty_score is  1
+Norovirus_GII#F#3 and Norovirus_GI#R#1 may have interaction.
+
+TCTGCCATCCAGTTTCTGT and AGGATGGCAGGCCATGTT violate rule No.6 the score is 9
+       TCTGCCATCCAGTTTCTGT
+        |||||||||         
+TTGTACCGGACGGTAGGA        
+The panelty_score is  1
+Rotavirus_A#R#1 and Norovirus_GI#F#1 may have interaction.
+
+GCCCGCGGGAACTTACCT and GCCCGCGGGAACTTACCT violate rule No.7 the score is -10.72
+        GCCCGCGGGAACTTACCT
+         ||||||||         
+TCCATTCAAGGGCGCCCG        
+The panelty_score is  1
+SapoVirus_GI#F#5 and SapoVirus_GI#F#5 may have interaction.
+
+GAAAAGTTCTACAGGAAGAT and GCCCGCGGGAACTTTTCT violate rule No.6 the score is 9
+ GAAAAGTTCTACAGGAAGAT
+ |||||||||    ||     
+TCTTTTCAAGGGCGCCCG   
+The panelty_score is  1
+SapoVirus_GI#F#5 and Norovirus_GI#F#3 may have interaction.
+
+AAACAGGTAACTGTTGAGGTCA and AAACAGGTAACTGTTGAGGTCA violate rule No.5 the score is 0.75
+      AAACAGGTAACTGTTGAGGTCA
+       ||||| || |||||       
+ACTGGAGTTGTCAATGGACAAA      
+AAACAGGTAACTGTTGAGGTCA and AAACAGGTAACTGTTGAGGTCA violate rule No.6 the score is 9
+      AAACAGGTAACTGTTGAGGTCA
+       ||||| || |||||       
+ACTGGAGTTGTCAATGGACAAA      
+The panelty_score is  2
+Astrovirus_1-8#F#7 and Astrovirus_1-8#F#7 may have interaction.
+
+AAGCAGGTCACTGTCGAGGTCA and GACGTTGACCTGCCTGGC violate rule No.5 the score is 0.80
+   AAGCAGGTCACTGTCGAGGTCA
+   | ||||||||  |||       
+CGGTCCGTCCAGTTGCAG       
+The panelty_score is  1
+Astrovirus_1-8#F#7 and SapoVirus_GI#F#0 may have interaction.
+
+GCATTAACCTGTATGCCAACTTTTT and AAACAGGTTACTGTCGAGGTCA violate rule No.5 the score is 0.79
+        GCATTAACCTGTATGCCAACTTTTT
+         || |||||||| |           
+ACTGGAGCTGTCATTGGACAAA           
+The panelty_score is  1
+Astrovirus_1-8#F#7 and Adenovirus_f-g#F#2 may have interaction.
+
+TCATAGAGGGTTACGTGAAGATG and CTAACCCCCAATGAGTTTGAAAT violate rule No.5 the score is 0.79
+         TCATAGAGGGTTACGTGAAGATG
+         |||| | ||||||          
+TAAAGTTTGAGTAACCCCCAATC         
+The panelty_score is  1
+Rotavirus_A#R#2 and Adenovirus_f-g#F#4 may have interaction.
+
+ATGTACAGAGATATCTTTGG and ATGTACAGAGATATCTTTGG violate rule No.5 the score is 0.75
+ATGTACAGAGATATCTTTGG    
+     || |||||||| ||     
+    GGTTTCTATAGAGACATGTA
+The panelty_score is  1
+Astrovirus_1-8#F#0 and Astrovirus_1-8#F#0 may have interaction.
+
+AATCCAATGTCCCTGAGGCGATA and ATGTACAGGGACATCTTTGG violate rule No.6 the score is 9
+AATCCAATGTCCCTGAGGCGATA
+      |||||||||        
+GGTTTCTACAGGGACATGTA   
+The panelty_score is  1
+Astrovirus_1-8#F#0 and SapoVirus_GI#F#2 may have interaction.
+
+AGTGATGCGAGCATCAACGAAAG and AGTGATGCGAGCATCAACGAAAG violate rule No.6 the score is 9
+     AGTGATGCGAGCATCAACGAAAG
+       ||||||  ||||||       
+GAAAGCAACTACGAGCGTAGTGA     
+The panelty_score is  1
+SapoVirus_GI#R#2 and SapoVirus_GI#R#2 may have interaction.
+
+ACGCCATCTTCATTCACAAAAC and GTGGGGAGGCAGTTTTGAG violate rule No.2 the score is 7
+ACGCCATCTTCATTCACAAAAC           
+              | ||||||           
+              GAGTTTTGACGGAGGGGTG
+The panelty_score is  1
+SapoVirus_GI#F#3 and Norovirus_GII#R#0 may have interaction.
+
+GGTTGAGGTAAAAGGTGCCGTCC and GTGGGGCGGCAGCTTTGAG violate rule No.5 the score is 0.75
+GGTTGAGGTAAAAGGTGCCGTCC   
+        | |||| ||||| ||   
+       GAGTTTCGACGGCGGGGTG
+The panelty_score is  1
+SapoVirus_GI#F#3 and Adenovirus_f-g#R#5 may have interaction.
+
+TGCCGACCCAGCCATTGTACAT and GTGGGGCGGCAGCTTTGAG violate rule No.7 the score is -9.81
+        TGCCGACCCAGCCATTGTACAT
+        ||||| ||||            
+GAGTTTCGACGGCGGGGTG           
+The panelty_score is  1
+SapoVirus_GI#F#3 and Norovirus_GI#R#2 may have interaction.
+
+GAGTGCTTCCTGTAGCGTCCTTA and GAGAAGTTCTACAGGAAGAT violate rule No.3 the score is 10
+GAGTGCTTCCTGTAGCGTCCTTA
+     ||||||||||      | 
+   TAGAAGGACATCTTGAAGAG
+GAGTGCTTCCTGTAGCGTCCTTA and GAGAAGTTCTACAGGAAGAT violate rule No.6 the score is 10
+GAGTGCTTCCTGTAGCGTCCTTA
+     ||||||||||      | 
+   TAGAAGGACATCTTGAAGAG
+The panelty_score is  2
+Astrovirus_1-8#R#5 and Norovirus_GI#F#3 may have interaction.
+
+AGGGACATTTTTGGCATGTGGGT and AATCCAATGTCCCTGAGGCGATA violate rule No.6 the score is 9
+         AGGGACATTTTTGGCATGTGGGT
+         |||||||||              
+ATAGCGGAGTCCCTGTAACCTAA         
+The panelty_score is  1
+Astrovirus_1-8#F#4 and SapoVirus_GI#F#2 may have interaction.
+
+GGCTTGCTAGCCATCGCACTCCT and TGGATGGCAAGCCATGTT violate rule No.7 the score is -9.20
+     GGCTTGCTAGCCATCGCACTCCT
+     ||||||| | |||          
+TTGTACCGAACGGTAGGT          
+The panelty_score is  1
+Astrovirus_1-8#R#2 and Norovirus_GI#F#1 may have interaction.
+
+ACGCCATCTTCATTCACAACAT and AGGATGGCAGGCCATGTT violate rule No.1 the score is 5
+ACGCCATCTTCATTCACAACAT             
+                 |||||             
+                 TTGTACCGGACGGTAGGA
+The panelty_score is  1
+Norovirus_GII#R#0 and Norovirus_GI#F#1 may have interaction.
+
+GAGGGGGTCTCCTTGGTTTTGAG and ACGCCATCTTCATTCACAAAAC violate rule No.2 the score is 7
+GAGGGGGTCTCCTTGGTTTTGAG              
+               |||||| |              
+               CAAAACACTTACTTCTACCGCA
+The panelty_score is  1
+Norovirus_GII#R#0 and Adenovirus_f-g#R#1 may have interaction.
+
+AAACCCTGGTAGCCGATGTTGTA and ACGCCATCTTCATTCACAACAT violate rule No.2 the score is 7
+AAACCCTGGTAGCCGATGTTGTA              
+               |||||||               
+               TACAACACTTACTTCTACCGCA
+The panelty_score is  1
+Norovirus_GII#R#0 and Adenovirus_f-g#R#8 may have interaction.
+
+TCCCAACCCAGCCATTGTACAT and AGCAGGCTGGTTTGGGAAG violate rule No.4 the score is 12
+  TCCCAACCCAGCCATTGTACAT
+  |||||| ||||||         
+GAAGGGTTTGGTCGGACGA     
+TCCCAACCCAGCCATTGTACAT and AGCAGGCTGGTTTGGGAAG violate rule No.6 the score is 10
+  TCCCAACCCAGCCATTGTACAT
+  |||||| ||||||         
+GAAGGGTTTGGTCGGACGA     
+The panelty_score is  2
+Norovirus_GII#F#2 and Norovirus_GI#R#2 may have interaction.
+
+GTTGTTGCTAATCCGGAACAACC and GTTGTTGCTAATCCGGAACAACC violate rule No.6 the score is 9
+ GTTGTTGCTAATCCGGAACAACC
+ |||||| |  ||  | |||||| 
+CCAACAAGGCCTAATCGTTGTTG 
+The panelty_score is  1
+SapoVirus_GI#F#1 and SapoVirus_GI#F#1 may have interaction.
+
+CTGCTCAAGATGGAGTCTACTCA and TTACGGACACGCTGAGTAGACTG violate rule No.3 the score is 10
+CTGCTCAAGATGGAGTCTACTCA            
+             ||||||||||            
+            GTCAGATGAGTCGCACAGGCATT
+CTGCTCAAGATGGAGTCTACTCA and TTACGGACACGCTGAGTAGACTG violate rule No.6 the score is 10
+CTGCTCAAGATGGAGTCTACTCA            
+             ||||||||||            
+            GTCAGATGAGTCGCACAGGCATT
+The panelty_score is  2
+Rotavirus_A#F#1 and Astrovirus_1-8#R#3 may have interaction.
+
+CTGCTCAAGATGGAGTCTACTCA and CTGTGACACCCTGTCTCCTGAGT violate rule No.1 the score is 5
+CTGCTCAAGATGGAGTCTACTCA                  
+                  |||||                  
+                  TGAGTCCTCTGTCCCACAGTGTC
+The panelty_score is  1
+Rotavirus_A#F#1 and Astrovirus_1-8#R#4 may have interaction.
+
+GGAGTCAAACATGATGGACACCT and CCAACATGCTTTACCCCATACC violate rule No.5 the score is 0.76
+     GGAGTCAAACATGATGGACACCT
+     || || || |||| |||      
+CCATACCCCATTTCGTACAACC      
+The panelty_score is  1
+Adenovirus_f-g#R#6 and Adenovirus_f-g#F#6 may have interaction.
+
+TACATGAACGGTCGGGTGGC and TACCACCTGACGGCTCAT violate rule No.5 the score is 0.76
+TACATGAACGGTCGGGTGGC 
+   |||| | ||| |||||  
+   TACTCGGCAGTCCACCAT
+The panelty_score is  1
+Adenovirus_f-g#F#0 and Adenovirus_f-g#R#4 may have interaction.
+
+CCACCAGCATACCCATTATACAT and CCTAATCCAGGGATCTATAA violate rule No.2 the score is 7
+CCACCAGCATACCCATTATACAT            
+               ||||| ||            
+               AATATCTAGGGACCTAATCC
+The panelty_score is  1
+Norovirus_GII#R#1 and Norovirus_GII#R#2 may have interaction.
+
+TGCCGACCCAGCCATTATACAT and CCTAATCCAGGGATCTATAA violate rule No.2 the score is 7
+TGCCGACCCAGCCATTATACAT            
+              ||||| ||            
+              AATATCTAGGGACCTAATCC
+The panelty_score is  1
+Norovirus_GII#R#1 and Norovirus_GI#R#2 may have interaction.
+
+TTACGGACACGTTGATTAGACTG and TCTAATCCAGGGGTCAATAA violate rule No.5 the score is 0.75
+TTACGGACACGTTGATTAGACTG
+|||  ||| | | |||||||   
+AATAACTGGGGACCTAATCT   
+TTACGGACACGTTGATTAGACTG and TCTAATCCAGGGGTCAATAA violate rule No.6 the score is 9
+TTACGGACACGTTGATTAGACTG
+|||  ||| | | |||||||   
+AATAACTGGGGACCTAATCT   
+The panelty_score is  2
+Norovirus_GII#R#1 and Astrovirus_1-8#R#3 may have interaction.
+
+CTACTCCGGCTCCATCCCCTAC and CCTTTAGGGGGTGGAGTTTTAC violate rule No.6 the score is 9
+CTACTCCGGCTCCATCCCCTAC   
+    |    ||||| ||||||    
+   CATTTTGAGGTGGGGGATTTCC
+The panelty_score is  1
+Adenovirus_f-g#F#8 and Adenovirus_f-g#F#7 may have interaction.
+
+TTAACGCCAGAGTCATCCAT and CAATGTTCCGGTGGATGA violate rule No.2 the score is 7
+TTAACGCCAGAGTCATCCAT          
+            |||||||           
+            AGTAGGTGGCCTTGTAAC
+The panelty_score is  1
+Rotavirus_A#R#0 and Norovirus_GII#F#1 may have interaction.
+
+CAGGCTCACAGAAGAGCAACTCC and ATGGAGTTGCTCTTCAGTGAG violate rule No.3 the score is 13
+CAGGCTCACAGAAGAGCAACTCC  
+    ||||| |||||||||||||  
+    GAGTGACTTCTCGTTGAGGTA
+CAGGCTCACAGAAGAGCAACTCC and ATGGAGTTGCTCTTCAGTGAG violate rule No.4 the score is 18
+CAGGCTCACAGAAGAGCAACTCC  
+    ||||| |||||||||||||  
+    GAGTGACTTCTCGTTGAGGTA
+CAGGCTCACAGAAGAGCAACTCC and ATGGAGTTGCTCTTCAGTGAG violate rule No.5 the score is 0.95
+CAGGCTCACAGAAGAGCAACTCC  
+    ||||| |||||||||||||  
+    GAGTGACTTCTCGTTGAGGTA
+CAGGCTCACAGAAGAGCAACTCC and ATGGAGTTGCTCTTCAGTGAG violate rule No.6 the score is 16
+CAGGCTCACAGAAGAGCAACTCC  
+    ||||| |||||||||||||  
+    GAGTGACTTCTCGTTGAGGTA
+CAGGCTCACAGAAGAGCAACTCC and ATGGAGTTGCTCTTCAGTGAG violate rule No.7 the score is -16.10
+CAGGCTCACAGAAGAGCAACTCC  
+    ||||| |||||||||||||  
+    GAGTGACTTCTCGTTGAGGTA
+The panelty_score is  5
+Astrovirus_1-8#R#0 and Astrovirus_1-8#F#5 may have interaction.
+
+TCCAAGCAAAAGTACGAAAGACT and GAACCAGTCTTTGGTCATGTTGC violate rule No.5 the score is 0.78
+TCCAAGCAAAAGTACGAAAGACT     
+     |||| |  || |||||||     
+     CGTTGTACTGGTTTCTGACCAAG
+TCCAAGCAAAAGTACGAAAGACT and GAACCAGTCTTTGGTCATGTTGC violate rule No.6 the score is 9
+TCCAAGCAAAAGTACGAAAGACT     
+     |||| |  || |||||||     
+     CGTTGTACTGGTTTCTGACCAAG
+The panelty_score is  2
+SapoVirus_GI#R#4 and Adenovirus_f-g#R#2 may have interaction.
+
+GACTGCGAAGCAGCTTCGTGAA and GACTGCGAAGCAGCTTCGTGAA violate rule No.4 the score is 12
+GACTGCGAAGCAGCTTCGTGAA 
+     |||||| ||||||     
+ AAGTGCTTCGACGAAGCGTCAG
+GACTGCGAAGCAGCTTCGTGAA and GACTGCGAAGCAGCTTCGTGAA violate rule No.6 the score is 10
+GACTGCGAAGCAGCTTCGTGAA 
+     |||||| ||||||     
+ AAGTGCTTCGACGAAGCGTCAG
+GACTGCGAAGCAGCTTCGTGAA and GACTGCGAAGCAGCTTCGTGAA violate rule No.7 the score is -9.43
+GACTGCGAAGCAGCTTCGTGAA 
+     |||||| ||||||     
+ AAGTGCTTCGACGAAGCGTCAG
+The panelty_score is  3
+Astrovirus_1-8#F#6 and Astrovirus_1-8#F#6 may have interaction.
+
+AAAAACTTCTGGGGGACCTGGAT and GAGAAGTTTTACAGGAAGAT violate rule No.6 the score is 9
+         AAAAACTTCTGGGGGACCTGGAT
+          |||||||||             
+TAGAAGGACATTTTGAAGAG            
+The panelty_score is  1
+Adenovirus_f-g#R#0 and Norovirus_GI#F#3 may have interaction.
+
+TTACGGACACGCTGATAAGACTG and ATCATCATTTACGTAATCGG violate rule No.5 the score is 0.75
+    TTACGGACACGCTGATAAGACTG
+    ||||| | | | ||||       
+GGCTAATGCATTTACTACTA       
+The panelty_score is  1
+Norovirus_GI#R#1 and Astrovirus_1-8#R#3 may have interaction.
+
+GGTGATGATGAGATAGTCTCAAC and GGTGATGATGAGATTGTCTCAAC violate rule No.5 the score is 0.76
+GGTGATGATGAGATAGTCTCAAC      
+      | ||||| | ||||| |      
+      CAACTCTGTTAGAGTAGTAGTGG
+The panelty_score is  1
+Norovirus_GI#F#2 and Norovirus_GI#F#2 may have interaction.
+
+GGTGATGATGAGATAGTGTCCAC and GTGGAGACAATCTCATCATCACC violate rule No.3 the score is 14
+GGTGATGATGAGATAGTGTCCAC
+|||||||||||||| || |||||
+CCACTACTACTCTAACAGAGGTG
+GGTGATGATGAGATAGTGTCCAC and GTGGAGACAATCTCATCATCACC violate rule No.4 the score is 16
+GGTGATGATGAGATAGTGTCCAC
+|||||||||||||| || |||||
+CCACTACTACTCTAACAGAGGTG
+GGTGATGATGAGATAGTGTCCAC and GTGGAGACAATCTCATCATCACC violate rule No.5 the score is 0.91
+GGTGATGATGAGATAGTGTCCAC
+|||||||||||||| || |||||
+CCACTACTACTCTAACAGAGGTG
+GGTGATGATGAGATAGTGTCCAC and GTGGAGACAATCTCATCATCACC violate rule No.6 the score is 18
+GGTGATGATGAGATAGTGTCCAC
+|||||||||||||| || |||||
+CCACTACTACTCTAACAGAGGTG
+GGTGATGATGAGATAGTGTCCAC and GTGGAGACAATCTCATCATCACC violate rule No.7 the score is -16.71
+GGTGATGATGAGATAGTGTCCAC
+|||||||||||||| || |||||
+CCACTACTACTCTAACAGAGGTG
+The panelty_score is  5
+Norovirus_GI#F#2 and Norovirus_GI#R#0 may have interaction.
+
+GTTGAGACAATCTCATCATCACC and GTTGAGACTATCTCATCATCACC violate rule No.5 the score is 0.76
+      GTTGAGACAATCTCATCATCACC
+      | ||||| | ||||| |      
+CCACTACTACTCTATCAGAGTTG      
+The panelty_score is  1
+Norovirus_GI#R#0 and Norovirus_GI#R#0 may have interaction.
+
+
+
+The panelty score of degenerate primers are :
+SapoVirus_GI#R#0                   	       1       
+Norovirus_GI#F#2                   	       3       
+SapoVirus_GI#R#5                   	       2       
+Norovirus_GII#F#3                  	       2       
+Adenovirus_f-g#F#8                 	       1       
+Rotavirus_A#R#1                    	       2       
+Rotavirus_A#R#2                    	       1       
+Astrovirus_1-8#F#0                 	       3       
+SapoVirus_GI#R#2                   	       2       
+SapoVirus_GI#F#3                   	       3       
+Astrovirus_1-8#R#2                 	       1       
+Astrovirus_1-8#R#0                 	       1       
+Astrovirus_1-8#F#4                 	       1       
+Norovirus_GII#R#0                  	       5       
+Norovirus_GII#F#2                  	       1       
+Rotavirus_A#F#1                    	       2       
+SapoVirus_GI#F#0                   	       1       
+Adenovirus_f-g#R#6                 	       1       
+Adenovirus_f-g#F#0                 	       1       
+Norovirus_GII#R#1                  	       3       
+Astrovirus_1-8#F#6                 	       2       
+Rotavirus_A#R#0                    	       1       
+SapoVirus_GI#F#1                   	       2       
+Norovirus_GI#R#1                   	       2       
+SapoVirus_GI#F#2                   	       2       
+Norovirus_GII#F#1                  	       1       
+Astrovirus_1-8#R#5                 	       1       
+SapoVirus_GI#R#4                   	       1       
+Astrovirus_1-8#R#3                 	       3       
+Adenovirus_f-g#R#4                 	       1       
+Astrovirus_1-8#F#3                 	       1       
+Adenovirus_f-g#R#5                 	       1       
+Norovirus_GI#R#2                   	       3       
+Adenovirus_f-g#F#7                 	       1       
+Astrovirus_1-8#F#5                 	       1       
+Adenovirus_f-g#R#0                 	       1       
+Norovirus_GI#F#1                   	       3       
+Adenovirus_f-g#R#2                 	       1       
+SapoVirus_GI#F#5                   	       3       
+Adenovirus_f-g#R#1                 	       2       
+Astrovirus_1-8#F#7                 	       4       
+Adenovirus_f-g#F#6                 	       1       
+Adenovirus_f-g#F#2                 	       1       
+Adenovirus_f-g#F#4                 	       1       
+Norovirus_GII#R#2                  	       1       
+Norovirus_GI#F#3                   	       3       
+Norovirus_GI#R#0                   	       3       
+Adenovirus_f-g#R#8                 	       1       
+Astrovirus_1-8#R#4                 	       1       

@@ -1,0 +1,1 @@
+Probe_Name                         	Probe_Seq                          	Ambigous_Number                    	Deg_Number	Tm_min	Tm_max

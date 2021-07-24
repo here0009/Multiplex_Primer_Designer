@@ -1,0 +1,97 @@
+Combinations of primers are:
+Primer Combinations Without Interaction:
+Amplicon Length are : [408, 477]
+>Norovirus_GII#F#0
+TGGAYTTTTAYGTRCCMAG
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT
+>Norovirus_GI#F#3
+GARAARTTYTACAGRAAGAT
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [384, 408]
+>Norovirus_GII#F#0
+TGGAYTTTTAYGTRCCMAG
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT
+>Norovirus_GI#F#1dref
+CGYTGGATGCGVTTCCATGA
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [322, 477]
+>Norovirus_GII#F#3
+GCTCCCRRTKKTGTGAATGAAG
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT
+>Norovirus_GI#F#3
+GARAARTTYTACAGRAAGAT
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [322, 384]
+>Norovirus_GII#F#3
+GCTCCCRRTKKTGTGAATGAAG
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT
+>Norovirus_GI#F#1dref
+CGYTGGATGCGVTTCCATGA
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [379, 477]
+>Norovirus_GII#F#cref
+ATGTTYAGRTGGATGAGRTTYTC
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT
+>Norovirus_GI#F#3
+GARAARTTYTACAGRAAGAT
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+
+
+The total combination number is 6, the combination number without interaction is 5
+The primers can be used are:
+>Norovirus_GII#F#0
+TGGAYTTTTAYGTRCCMAG
+>Norovirus_GII#F#3
+GCTCCCRRTKKTGTGAATGAAG
+>Norovirus_GI#F#3
+GARAARTTYTACAGRAAGAT
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+>Norovirus_GI#F#1dref
+CGYTGGATGCGVTTCCATGA
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT
+>Norovirus_GII#F#cref
+ATGTTYAGRTGGATGAGRTTYTC
+
+The primers can be used and there appearance value are:
+Norovirus_GII#F#0                  	2
+Norovirus_GII#F#3                  	2
+Norovirus_GI#F#3                   	3
+Norovirus_GII#R#2                  	5
+Norovirus_GI#F#1dref               	2
+Norovirus_GI#R#2                   	5
+Norovirus_GII#F#cref               	1
+
+Primer_Amplcion interaction number are:
+Norovirus_GII#F#0             	1
+Norovirus_GII#F#3             	1
+Norovirus_GI#F#3              	1
+Norovirus_GII#R#2             	2
+Norovirus_GI#F#1dref          	1
+Norovirus_GI#R#2              	2
+Norovirus_GII#F#cref          	1
+
+Primers with unspecific interactions are:
+>Norovirus_GII#R#2
+CCWCCWGCATAMCCATTRTACAT
+>Norovirus_GI#R#2
+TVCCRACCCARCCATTRTACAT

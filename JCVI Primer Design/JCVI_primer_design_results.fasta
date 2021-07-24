@@ -1,0 +1,64 @@
+>adenovirus_f_00000_0000.l /begin=11 /end=29 /orientation=1 /length=18
+CTCGATGATGCCGCAATG
+>adenovirus_f_00000_0000.r /begin=291 /end=312 /orientation=-1 /length=21
+GCGGATGTCAAAGTAGGTGCT
+>adenovirus_f_10001_0001.l /begin=30 /end=49 /orientation=1 /length=19
+TCTTACATGCACATCGCCG
+>adenovirus_f_10001_0001.r /begin=315 /end=333 /orientation=-1 /length=18
+GGGRCCACGATCCAGCAC
+>adenovirus_f_00100_0002.l /begin=1656 /end=1677 /orientation=1 /length=21
+TCCTACACCTAYGAGTGGAAC
+>adenovirus_f_00100_0002.r /begin=1945 /end=1966 /orientation=-1 /length=21
+TAAAACTCCASCCCCGAAAAG
+>adenovirus_f_00102_0004.l /begin=2100 /end=2121 /orientation=1 /length=21
+GACTCCTCTGTGAGYTGGCCT
+>adenovirus_f_00102_0004.r /begin=2441 /end=2462 /orientation=-1 /length=21
+TAGTTRGCGGGGTAAGCTTGT
+>adenovirus_f_00103_0005.l /begin=2305 /end=2324 /orientation=1 /length=19
+TTTTCCGAAACTTCCARCC
+>adenovirus_f_00103_0005.r /begin=2739 /end=2761 /orientation=-1 /length=22
+AGAACGGCGTACGSAGGTAGAC
+>norovirus_g2_00000_0000.l /begin=151 /end=170 /orientation=1 /length=19
+TYTGGTCDMGGATAGTCAA
+>norovirus_g2_00000_0000.r /begin=858 /end=881 /orientation=-1 /length=23
+AGYTGGTCYCTCATAACTTGYTG
+>norovirus_g2_00001_0001.l /begin=630 /end=652 /orientation=1 /length=22
+AACACKGTCATATGTGCCACMC
+>norovirus_g2_00001_0001.r /begin=1335 /end=1358 /orientation=-1 /length=23
+GGRCCATCYTCATTCATRTTCAT
+>norovirus_g2_00002_0002.l /begin=948 /end=971 /orientation=1 /length=23
+ATCATCAATGTYCTKGARCAAAC
+>norovirus_g2_00002_0002.r /begin=1450 /end=1469 /orientation=-1 /length=19
+ACCATGATTTCWAGWGCHG
+>norovirus_g2_10003_0003.l /begin=177 /end=195 /orientation=1 /length=18
+WCAGGYTGGGGMTTCTGG
+>norovirus_g2_10003_0003.r /begin=801 /end=823 /orientation=-1 /length=22
+CACCRAGGTAKGCTGGTTCRTA
+>norovirus_g2_10004_0004.l /begin=666 /end=687 /orientation=1 /length=21
+GAAGCYACWCTTGAAGGWGGT
+>norovirus_g2_10004_0004.r /begin=1395 /end=1418 /orientation=-1 /length=23
+CASCGRGARTAATCAGCATCATA
+>rotavirus_a_00000_0000.l /begin=0 /end=20 /orientation=1 /length=20
+GGCTTTTAATGCTTTTCAGT
+>rotavirus_a_00000_0000.r /begin=463 /end=483 /orientation=-1 /length=20
+TCRACTTCHCCACGTTCWAT
+>rotavirus_a_00001_0001.l /begin=271 /end=294 /orientation=1 /length=23
+AGRAATAGAAATTGGATGRCYGA
+>rotavirus_a_00001_0001.r /begin=994 /end=1017 /orientation=-1 /length=23
+TGCTCATAGAGGGTYAYGTGWAG
+>rotavirus_a_10002_0002.l /begin=21 /end=39 /orientation=1 /length=18
+GTTGMTGCTCAAGATGGA
+>rotavirus_a_10002_0002.r /begin=374 /end=396 /orientation=-1 /length=22
+AARCADGCATTAAGWACTCTCA
+>rotavirus_a_10003_0003.l /begin=118 /end=141 /orientation=1 /length=23
+YTAATGGGYRTTCAATATGATTA
+>rotavirus_a_10003_0003.r /begin=531 /end=549 /orientation=-1 /length=18
+TCATAWCKRGATTTCCAA
+>sapovirus_g1_00001_0001.l /begin=562 /end=585 /orientation=1 /length=23
+TAGTGTTTGAGATGGAGGGCAAT
+>sapovirus_g1_00001_0001.r /begin=1034 /end=1057 /orientation=-1 /length=23
+AGTGATRCGAGCATCAACGAAAG
+>sapovirus_g1_10003_0003.l /begin=659 /end=679 /orientation=1 /length=20
+CGRCCACATCCMAYGTTGTT
+>sapovirus_g1_10003_0003.r /begin=964 /end=987 /orientation=-1 /length=23
+GGTGGTAYGACAGAAGCAATGAT

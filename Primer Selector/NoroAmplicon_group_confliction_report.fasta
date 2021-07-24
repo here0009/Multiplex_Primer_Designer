@@ -1,0 +1,21 @@
+
+
+Primers that have simple repeats are :
+
+
+The confliction of primers are : 
+
+
+
+The panelty score of degenerate primers are :
+==================================================
+The group name dict is: 
+Norovirus_GII#F
+{0: 'Norovirus_GII#F#0', 1: 'Norovirus_GII#F#3', 2: 'Norovirus_GII#F#cref'}
+Norovirus_GI#R
+{0: 'Norovirus_GI#R#2'}
+Norovirus_GI#F
+{0: 'Norovirus_GI#F#3', 1: 'Norovirus_GI#F#1dref'}
+Norovirus_GII#R
+{0: 'Norovirus_GII#R#2'}
+The self interaction primers are:

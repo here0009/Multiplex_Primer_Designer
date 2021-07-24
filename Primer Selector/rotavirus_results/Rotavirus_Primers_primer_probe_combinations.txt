@@ -1,0 +1,86 @@
+Combinations of primers are:
+Primer Combinations Without Interaction:
+Amplicon Length are : [204]
+>Rotavirus_A#R#0o
+TTWACRCCWGARTCATCCAT
+>Rotavirus_A#F#12o
+GGCTTTTAATGCTTTTCAGT
+
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [183]
+>Rotavirus_A#R#0o
+TTWACRCCWGARTCATCCAT
+>Rotavirus_A#F#14o
+GTTGMTGCTCAAGATGGA
+
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [78]
+>Rotavirus_A#R#2o
+ACGCCCCTATAGCCATTTAGGTT
+>Rotavirus_A#F#0ao
+ACCATCTWCACRTRACCCTCTATGAG
+
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [71]
+>Rotavirus_A#R#2o
+ACGCCCCTATAGCCATTTAGGTT
+>Rotavirus_A#F#3o
+WCACRTRACCCTCTATGAGCRCA
+
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [87]
+>Rotavirus_A#R#0ao
+GGTYACATAACGCCCCTATAGC
+>Rotavirus_A#F#0ao
+ACCATCTWCACRTRACCCTCTATGAG
+
+
+Primer Combinations Without Interaction:
+Amplicon Length are : [80]
+>Rotavirus_A#R#0ao
+GGTYACATAACGCCCCTATAGC
+>Rotavirus_A#F#3o
+WCACRTRACCCTCTATGAGCRCA
+
+
+
+The total combination number is 12, the combination number without interaction is 6
+The primers can be used are:
+>Rotavirus_A#F#0ao
+ACCATCTWCACRTRACCCTCTATGAG
+>Rotavirus_A#F#3o
+WCACRTRACCCTCTATGAGCRCA
+>Rotavirus_A#R#0ao
+GGTYACATAACGCCCCTATAGC
+>Rotavirus_A#F#12o
+GGCTTTTAATGCTTTTCAGT
+>Rotavirus_A#F#14o
+GTTGMTGCTCAAGATGGA
+>Rotavirus_A#R#2o
+ACGCCCCTATAGCCATTTAGGTT
+>Rotavirus_A#R#0o
+TTWACRCCWGARTCATCCAT
+
+The primers can be used and there appearance value are:
+Rotavirus_A#F#0ao                  	2
+Rotavirus_A#F#3o                   	2
+Rotavirus_A#R#0ao                  	2
+Rotavirus_A#F#12o                  	1
+Rotavirus_A#F#14o                  	1
+Rotavirus_A#R#2o                   	2
+Rotavirus_A#R#0o                   	2
+
+Primer_Amplcion interaction number are:
+Rotavirus_A#F#0ao             	1
+Rotavirus_A#F#3o              	1
+Rotavirus_A#F#12o             	1
+Rotavirus_A#R#0o              	1
+Rotavirus_A#F#14o             	1
+Rotavirus_A#R#2o              	1
+Rotavirus_A#R#0ao             	1
+
+Primers with unspecific interactions are:

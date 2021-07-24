@@ -1,0 +1,9 @@
+Primer_Name                        	Ref_Name                           	Primer_Seq                         	Ref_Seq                            	Score	Strand	Pos_Start 	 Pos_End  	Identical 
+Norovirus_GII#F#0                  	Norovirus_GII_consensus_seq        	TGGAYTTTTAYGTRCCMAG                	TGGAYTTTTAYGTRCCMAG                	 1.0 	forward	    0     	    19    	    1     
+Norovirus_GII#R#2                  	Norovirus_GII_consensus_seq        	ATGTAYAATGGKTATGCWGGWGG            	ATGTAYAATGGKTATGCWGGWGG            	 1.0 	reverse	   384    	   407    	    1     
+Rotavirus_A#R#30                   	Rotavirus_A_consensus_seq          	CCCTCTATGAGCRCRAYAGT               	CCCTCTATGAGCRCAAYAGT               	 1.0 	reverse	   993    	   1013   	    0     
+rotavirus_a_F_12                   	Rotavirus_A_consensus_seq          	GGCTTTTAATGCTTTTCAGT               	GGCWTTTAATGCTTTTCAGT               	0.975	forward	    0     	    20    	    0     
+adenovirus_f_R_4                   	Adenovirus_F-G                     	ACAAGCTTACCCCGCYAACTA              	RCAAGCKTACCCCGCYAACTA              	0.9523809523809523	reverse	   892    	   913    	    0     
+Adenovirus_Hexon#F#5               	Adenovirus_F-G                     	GYCTKCGCTAYCGDTCYATGCT             	GYCTKCGCTAYCGDTCYATGCT             	 1.0 	forward	    0     	    22    	    1     
+sapovirus_g1_F_16                  	SapoVirus_GI_consensus_seq         	TAGTGTTTGAGATGGAGGGCAAT            	TAGTGTTTGAGATGGAGGGCAAT            	 1.0 	forward	    0     	    23    	    1     
+sapovirus_g1_R_16                  	SapoVirus_GI_consensus_seq         	CTTTCGTTGATGCTCGYATCACT            	CTTTCGTTGATGCTCGYATCACT            	 1.0 	reverse	   464    	   487    	    1     

@@ -1,0 +1,13 @@
+Name                               	Sequence                                	   Len    	DegNumber 	AdjuDegNum	MaxTm	MinTm	   Flag   
+Rv#F#0b3                           	TCTWCACRTRACCCTCTATGAGC                 	    23    	    8     	4.00 	62.33	57.55	    1     
+Na#R#dref123_143                   	AGATYGCGRTCTCCTGTCCA                    	    20    	    4     	3.00 	63.43	59.10	    1     
+Na#F#cref                          	GCCATGTTCCGYTGGATG                      	    18    	    2     	2.00 	59.45	57.04	    1     
+Sv#F#132_157                       	TTGCAGTCTKTCGYACTTTTGCTTG               	    25    	    4     	3.00 	65.63	61.54	    1     
+Nb#F#aref66_86                     	TGGGAGGGCGATCGCAATCT                    	    20    	    1     	1.00 	64.45	64.45	    1     
+Na#F#bref121_143                   	TGTGGACAGGAGAYCGCRATCT                  	    22    	    4     	4.00 	65.99	62.08	    1     
+Nb#F#cref                          	ATGTTYAGRTGGATGAGRTTYTC                 	    23    	    16    	9.00 	60.66	53.17	    1     
+Nb#F#dref62_85                     	CACRTGGGAGGGCGATCGCAATC                 	    23    	    2     	2.00 	68.68	66.70	    0     
+Ad#R#6_30                          	CACGTTGTAYCCTTCMCCRTCCAC                	    24    	    8     	6.00 	67.77	62.27	    1     
+Rv#F#mgb5_27                       	AGTTAAAAGCTAACACTGTCAAA                 	    23    	    1     	1.00 	55.29	55.29	    1     
+As#R#6_30                          	CCTCCAAATGCGATGRAGTTGCTC                	    24    	    2     	2.00 	64.86	63.31	    1     
+Rv#F#0b1                           	CACRTRACCCTCTATGAGCRCA                  	    22    	    8     	4.00 	65.16	58.18	    1     

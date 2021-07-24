@@ -1,0 +1,8 @@
+Primer_Name                        	Ref_Name                           	Primer_Seq                         	Ref_Seq                            	Score	Strand	Pos_Start 	 Pos_End  	Identical 
+Rotavirus_A#F#14o                  	Rotavirus_A_consensus_seq          	GTTGMTGCTCAAGATGGA                 	GTTGMTGCTCAAGATGGA                 	 1.0 	forward	    21    	    39    	    1     
+Rotavirus_A#R#0o                   	Rotavirus_A_consensus_seq          	ATGGATGAYTCWGGYGTWAA               	ATGGATGAYTCWGGYGTWAA               	 1.0 	reverse	   184    	   204    	    1     
+Rotavirus_A#R#2o                   	Rotavirus_A_consensus_seq          	AACCTAAATGGCTATAGGGGCGT            	AACCTAAATGGCTATAGGGGCGT            	 1.0 	reverse	   1033   	   1056   	    1     
+Rotavirus_A#F#0ao                  	Rotavirus_A_consensus_seq          	ACCATCTWCACRTRACCCTCTATGAG         	ACCATCTWCACRTRACCCTCTATGAG         	 1.0 	forward	   978    	   1004   	    1     
+Rotavirus_A#F#3o                   	Rotavirus_A_consensus_seq          	WCACRTRACCCTCTATGAGCRCA            	WCACRTRACCCTCTATGAGCRCA            	 1.0 	forward	   985    	   1008   	    1     
+Rotavirus_A#F#12o                  	Rotavirus_A_consensus_seq          	GGCTTTTAATGCTTTTCAGT               	GGCWTTTAATGCTTTTCAGT               	0.975	forward	    0     	    20    	    0     
+Rotavirus_A#R#0ao                  	Rotavirus_A_consensus_seq          	GCTATAGGGGCGTTATGTRACC             	GCTATAGGGGCGTTATGTRACC             	 1.0 	reverse	   1043   	   1065   	    1     

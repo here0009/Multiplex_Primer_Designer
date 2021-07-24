@@ -1,0 +1,21 @@
+The match score between the primer and amplicons are :
+===============================================
+Rv#F#0b3	1
+Na#R#dref123_143	3
+Na#F#cref	2
+Sv#F#132_157	1
+Nb#F#aref66_86	2
+Na#F#bref121_143	3
+Nb#F#cref	2
+Nb#F#dref62_85	1
+Ad#R#6_30	1
+Rv#F#mgb5_27	1
+As#R#6_30	1
+Rv#F#0b1	1
+These primers got more than one match or no match:
+===============================================
+Na#R#dref123_143 	 3
+Na#F#cref 	 2
+Nb#F#aref66_86 	 2
+Na#F#bref121_143 	 3
+Nb#F#cref 	 2

@@ -1,0 +1,23 @@
+The match score between the primer and amplicons are :
+===============================================
+Norovirus_GII#R#1f	2
+Sapovirus_GI#R#4f	1
+Norovirus_GI#R#1f	2
+Sapovirus_GI#R#2f	1
+Sapovirus_GI#R#0f	1
+Adenovirus_f-g#R#7f	1
+Norovirus_GI#F#1f	1
+Adenovirus_f-g#F#7f	1
+Astrovirus_1-8#F#4f	1
+Norovirus_GII#F#1f	2
+Adenovirus_f-g#R#2f	1
+Adenovirus_f-g#F#4f	1
+Astrovirus_1-8#R#1f	1
+Norovirus_GII#F#3f	1
+Norovirus_GII#R#4f	2
+These primers got more than one match or no match:
+===============================================
+Norovirus_GII#R#1f 	 2
+Norovirus_GI#R#1f 	 2
+Norovirus_GII#F#1f 	 2
+Norovirus_GII#R#4f 	 2
